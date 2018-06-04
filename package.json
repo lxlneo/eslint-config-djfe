@@ -26,6 +26,6 @@
     "babylon": "^6.18.0",
     "eslint": "^4.11.0",
     "eslint-plugin-vue": "^3.13.1",
-    "vue-eslint-parser": "^2.0.1-beta.2"
+    "vue-eslint-parser": "^2.0.3"
   }
 }
