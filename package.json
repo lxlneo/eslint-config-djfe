@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/lxlneo/eslint-config-djfe/issues"
   },
-  "homepage": "https://github.com/lxlneo/eslint-config-djfe#readme"
+  "homepage": "https://github.com/lxlneo/eslint-config-djfe#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "babylon": "^6.18.0",
+    "eslint": "^4.11.0",
+    "eslint-plugin-vue": "^3.13.1",
+    "vue-eslint-parser": "^2.0.1-beta.2"
+  }
 }
