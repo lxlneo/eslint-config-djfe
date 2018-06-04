@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-djfe",
+  "version": "1.0.0",
+  "description": "eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxlneo/eslint-config-djfe.git"
+  },
+  "keywords": [
+    "eslint",
+    "dj"
+  ],
+  "author": "lxlneo.g@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxlneo/eslint-config-djfe/issues"
+  },
+  "homepage": "https://github.com/lxlneo/eslint-config-djfe#readme"
+}
