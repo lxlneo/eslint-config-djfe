@@ -757,6 +757,7 @@ module.exports = {
     // @off 没必要限制
     'object-property-newline': 'off',
     // 禁止变量申明时用逗号一次申明多个
+    //@fixable
     'one-var': [
       'error',
       'never'
